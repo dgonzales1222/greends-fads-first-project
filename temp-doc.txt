@@ -4,7 +4,7 @@ The command tells the system to copy (cp) all files from the parent directory (.
 
 5.2. Can you explain why, in this case, we did not have to do git init?
 
-It is a git clone so by default, it is already a Git repository.
+It is a git clone so by default, it is already a fully initialized Git repository.
 
 5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
 
